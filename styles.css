@@ -62,8 +62,16 @@ p{
    color: #4B505A;
  
 }
+
 .p-1{
 
     color: #33c958;
+}
 
+link-body{
+    width: 515px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: crimson;
 }
